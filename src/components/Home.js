@@ -1,12 +1,16 @@
 import React from 'react'
 import Header from './Header'
 import { Container } from 'react-bootstrap'
+import SimpleMap from './SimpleMap'
+
 
 
 export default function Home() {
   return (
     <div>
       <Header />
+      <SimpleMap />
+
       {/* <Container> */}
       <div className="home" style={{
         backgroundImage: `url(${'plant-nature.png'})`,
