@@ -13,6 +13,7 @@ export default function Navbarr() {
           <Link className="nav-link" to="/home">Home</Link>
           <Link className="nav-link" to="/about" >About</Link>
           <Link className="nav-link" to="/contact" >ContactUs</Link>
+          <Link className="nav-link" to="/services" >Services</Link>
           {/* <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
             <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
