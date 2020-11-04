@@ -4,11 +4,10 @@ import { Container } from 'react-bootstrap'
 import SimpleMap from './SimpleMap'
 
 
-
 export default function Home() {
   return (
     <div>
-      <Header />
+      {/* <Header /> */}
       <SimpleMap />
 
       {/* <Container> */}

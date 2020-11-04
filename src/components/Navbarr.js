@@ -1,16 +1,18 @@
 import React from 'react'
 import { Navbar, Nav } from 'react-bootstrap'
+import { Link } from 'react-router-dom'
+
 
 export default function Navbarr() {
   return (
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" style={{ backgroundColor: 'red' }}>
-      <Navbar.Brand href="/home">Angelojulianosalon</Navbar.Brand>
+      <Navbar.Brand>Angelojulianosalon</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">
-          <Nav.Link href="/home">Home</Nav.Link>
-          <Nav.Link href="/about">About</Nav.Link>
-          <Nav.Link href="/contact">ContactUs</Nav.Link>
+          <Link className="nav-link" to="/home">Home</Link>
+          <Link className="nav-link" to="/about" >About</Link>
+          <Link className="nav-link" to="/contact" >ContactUs</Link>
           {/* <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
             <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
             <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>

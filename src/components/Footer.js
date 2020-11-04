@@ -30,7 +30,7 @@ export default function Footer() {
             </a>
           </div>
           <div className="rights">
-            <p>© 2020 Rikverse.  All rights reserved. </p>
+            <p>© 2020 .  All rights reserved. </p>
           </div>
         </Container>
       </div>
