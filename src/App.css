@@ -35,3 +35,12 @@ margin:0.2%;
   margin-bottom: 0;
   text-align: center;
 }
+
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+}
+.text-service{
+  margin: 1%;
+}
