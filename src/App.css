@@ -18,16 +18,19 @@
   text-align-last: center;
   bottom: 0;
   margin-bottom: 0;
-  margin-top: 1%;
+  margin-top: 2%;
   width: 100%;
 }
 
 .home {
   text-align-last: center;
 }
-
+.phone{
+  font-size: 20px;
+  font-weight: bold;
+}
 .icon{
-margin:0.2%;
+margin:1%;
 }
 .rights{
   position: -ms-page;
@@ -43,4 +46,28 @@ ul {
 }
 .text-service{
   margin: 1%;
+}
+
+.home-page{
+  margin-top: 2%;
+}
+.text-name{
+  color: white;
+  /* font-size:1vm; */
+}
+
+.absolute {
+  /* position: absolute; */
+  /* bottom: 10px; */
+  margin-top: 2%;
+ 
+}
+
+@media screen and (max-width: 600px) {
+  .text-name{
+    font-size: 15px;
+  }
+  .footer-text{
+    font-size: 2.5vw;
+  }
 }
