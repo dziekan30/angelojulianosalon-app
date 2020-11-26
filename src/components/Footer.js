@@ -28,7 +28,7 @@ export default function Footer() {
             </div>
             <div className="col-6 footer-text"  >
               <i class="fas fa-phone-alt"></i><span className="phone" >Phone Number</span>
-              <h3 className="footer-text" >000-111-1100</h3>
+              <h3 className="footer-text" >000-000-0000</h3>
               <h3 className="footer-text" >Our Hours</h3>
               <h4 className="footer-text" >Mon-Friday: 10am - 6pm</h4>
             </div>
