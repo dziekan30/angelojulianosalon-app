@@ -7,7 +7,6 @@ export default function Header() {
       <div>
         <img className="profile" src="" alt="" />
         <img className="logo" src="" alt="" />
-        <img className="logo" src="" alt="" />
       </div>
     </Jumbotron>
   )
