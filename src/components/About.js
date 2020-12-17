@@ -6,9 +6,9 @@ export default function About() {
     <Container>
       <CardDeck>
         <Card>
-          <Card.Img variant="top" src="https://media3.giphy.com/media/ZD3eIZqnR7DV2vVHeE/giphy.gif?cid=ecf05e476hofkmqyfirxe4l3y335yz5ksq171vzantgu7a0j&rid=giphy.gif" />
+          <Card.Img variant="top" src="131726672_360622208424805_3486672123673266242_n.jpg" />
           <Card.Body>
-            <Card.Title>Card title</Card.Title>
+            <Card.Title>Bradni Aliz</Card.Title>
             <Card.Text>
               This is a wider card with supporting text below as a natural lead-in to
               additional content. This content is a little bit longer.
@@ -19,12 +19,11 @@ export default function About() {
           </Card.Footer>
         </Card>
         <Card>
-          <Card.Img variant="top" src="https://media3.giphy.com/media/ZD3eIZqnR7DV2vVHeE/giphy.gif?cid=ecf05e476hofkmqyfirxe4l3y335yz5ksq171vzantgu7a0j&rid=giphy.gif" />
+          <Card.Img variant="top" src="./131589577_296857581762578_2111205858971358786_n.jpg" />
           <Card.Body>
-            <Card.Title>Card title</Card.Title>
+            <Card.Title>Angelo Juliano</Card.Title>
             <Card.Text>
-              This card has supporting text below as a natural lead-in to additional
-              content.{' '}
+              slut !!!!! 500$ per hr , $200 per blowjob.{' '}
             </Card.Text>
           </Card.Body>
           <Card.Footer>
@@ -32,9 +31,9 @@ export default function About() {
           </Card.Footer>
         </Card>
         <Card>
-          <Card.Img variant="top" src="https://media3.giphy.com/media/ZD3eIZqnR7DV2vVHeE/giphy.gif?cid=ecf05e476hofkmqyfirxe4l3y335yz5ksq171vzantgu7a0j&rid=giphy.gif" />
+          <Card.Img variant="top" src="./131673798_1120072005092664_4768713147242061875_n.jpg" />
           <Card.Body>
-            <Card.Title>Card title</Card.Title>
+            <Card.Title>Rosa</Card.Title>
             <Card.Text>
               This is a wider card with supporting text below as a natural lead-in to
               additional content. This card has even longer content than the first to

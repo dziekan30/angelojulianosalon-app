@@ -24,7 +24,7 @@ export default function Home() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/healthy_hair_other/1800x1200_healthy_hair_other.jpg?resize=750px:*"
+                src="./131580028_838718286950872_2620090689156429786_n.jpg"
                 alt="First slide"
 
               />
@@ -36,7 +36,7 @@ export default function Home() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/healthy_hair_other/1800x1200_healthy_hair_other.jpg?resize=750px:*"
+                src="./131589577_296857581762578_2111205858971358786_n.jpg"
                 alt="Third slide"
               />
 
@@ -48,7 +48,7 @@ export default function Home() {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/healthy_hair_other/1800x1200_healthy_hair_other.jpg?resize=750px:*"
+                src="131726672_360622208424805_3486672123673266242_n.jpg"
                 alt="Third slide"
               />
 
