@@ -3,7 +3,7 @@ import { Container } from 'react-bootstrap'
 
 export default function Services() {
   return (
-    <Container>
+    <Container className="service" >
       <div className="text-service" style={{ textAlign: "center" }}>
         <h1 className="text-service">Hair Salon Services</h1>
         <h3 className="text-service">Bridal Pricelist</h3>

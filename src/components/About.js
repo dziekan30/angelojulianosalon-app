@@ -3,19 +3,18 @@ import { Card, CardDeck, Container } from 'react-bootstrap'
 
 export default function About() {
   return (
-    <Container>
+    <Container className="about">
       <CardDeck>
         <Card>
           <Card.Img variant="top" src="131726672_360622208424805_3486672123673266242_n.jpg" />
           <Card.Body>
             <Card.Title>Bradni Aliz</Card.Title>
             <Card.Text>
-              This is a wider card with supporting text below as a natural lead-in to
-              additional content. This content is a little bit longer.
+              Something about
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <small className="text-muted">Last updated 3 mins ago</small>
+            <small className="text-muted">Apoitment only</small>
           </Card.Footer>
         </Card>
         <Card>
@@ -23,11 +22,11 @@ export default function About() {
           <Card.Body>
             <Card.Title>Angelo Juliano</Card.Title>
             <Card.Text>
-              slut !!!!! 500$ per hr , $200 per blowjob.{' '}
+              Something about
             </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <small className="text-muted">Last updated 3 mins ago</small>
+            <small className="text-muted">Apoitment only</small>
           </Card.Footer>
         </Card>
         <Card>
@@ -35,13 +34,11 @@ export default function About() {
           <Card.Body>
             <Card.Title>Rosa</Card.Title>
             <Card.Text>
-              This is a wider card with supporting text below as a natural lead-in to
-              additional content. This card has even longer content than the first to
-              show that equal height action.
+              Something about
              </Card.Text>
           </Card.Body>
           <Card.Footer>
-            <small className="text-muted">Last updated 3 mins ago</small>
+            <small className="text-muted">Apoitment only</small>
           </Card.Footer>
         </Card>
       </CardDeck>
