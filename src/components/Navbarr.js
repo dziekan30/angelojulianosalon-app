@@ -5,8 +5,8 @@ import { Link } from 'react-router-dom'
 
 export default function Navbarr() {
   return (
-    <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark" style={{ backgroundColor: 'red' }}>
-      <Navbar.Brand>Angelojulianosalon</Navbar.Brand>
+    <Navbar collapseOnSelect expand="lg" variant="dark" style={{ backgroundColor: 'black' }}>
+      <Navbar.Brand>ANGELO JULIANO SALON</Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="mr-auto">

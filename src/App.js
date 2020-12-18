@@ -1,5 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { BrowserRouter, Redirect, Route, Switch } from 'react-router-dom';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Home from './components/Home'
 import About from './components/About'
@@ -21,9 +21,6 @@ function App() {
           <Route path="/services" component={Services} />
           <Route path="/" component={Home} />
           <Route component={Error} />
-          {/* <Route path="/" >
-            <Redirect to="/home" />
-          </Route> */}
         </Switch>
       </div>
       <Footer />

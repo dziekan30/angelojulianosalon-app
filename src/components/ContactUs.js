@@ -18,7 +18,7 @@ export default function ContactUs() {
   }
 
   return (
-    <Container>
+    <Container className="contactUs">
       <div>
         <form onSubmit={sendEmail}>
 
